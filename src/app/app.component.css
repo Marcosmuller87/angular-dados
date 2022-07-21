@@ -1,0 +1,11 @@
+.jumbotron {
+  background-color: #9d9998;
+  color: #fff;
+  padding: 100px 25px;
+}
+
+.dice {
+  width: 250px;
+  height: 250px;
+  margin: 50px;
+}
